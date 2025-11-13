@@ -1,4 +1,4 @@
 # devowfs201
 Projet web Full Stack CMC Béni Mellal groupe 201
-# Projet Laravel
+# Projet Angular
 lorem zefkjezkjf jkzef
